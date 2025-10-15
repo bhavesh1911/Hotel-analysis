@@ -20,7 +20,7 @@ Using Python, the dataset was cleaned, explored, and visualized to uncover key i
 
 
 ## 🧰 Tools & Libraries Used
-- **Python 3**
+- **Python**
 - **Pandas** → data cleaning and manipulation
 - **NumPy** → numerical computations
 - **Matplotlib & Seaborn** → data visualization
